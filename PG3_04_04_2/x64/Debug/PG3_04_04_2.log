@@ -1,0 +1,11 @@
+﻿  Circle.cpp
+C:\Users\hidem\OneDrive\デスクトップ\stady\PG3\PG3_04_04_2\Circle.h(10,13): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'Circle.cpp' をコンパイルしています)
+  
+  main.cpp
+C:\Users\hidem\OneDrive\デスクトップ\stady\PG3\PG3_04_04_2\Circle.h(10,13): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+  Rectangle.cpp
+  コードを生成中...
+  PG3_04_04_2.vcxproj -> C:\Users\hidem\OneDrive\デスクトップ\stady\PG3\PG3_04_04_2\x64\Debug\PG3_04_04_2.exe
